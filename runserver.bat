@@ -1,0 +1,1 @@
+c:\python27\python.exe D:\dentist\dentist_site\manage.py runserver
